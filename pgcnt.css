@@ -1,0 +1,25 @@
+body
+{
+	background-color:#ffdab9;
+}
+.box
+{
+	max-height:1000px;
+	max-width:500px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin:-250px 0 0 -200px;
+	background-color:#D3D3D3;
+	float:middle;
+	padding-left:10px;
+}
+p
+{
+	font-weight:bold;
+	color:red;
+}
+.wid
+{
+	width:65px;
+}
